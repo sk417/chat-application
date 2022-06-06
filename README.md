@@ -1,13 +1,8 @@
-# Chat App 
+# Chat App 📃
 
 A real-time chat program that transmits and displays messages to a recipient without the need to reload the website.
-<hr>
-
-### Website UI Gallary
-
-<img src="gallery/UI1"/>
-<hr>
-
+<br>
+## About me :
 Hello there! My name is Sudheer .
 
 This real-time chat application was made by myself.
@@ -16,11 +11,25 @@ I'm hoping you'll enjoy it.
 
 In essence, I am a learner. And I'm still learning. I am more enthusiastic about coding.
 This modest piece serves as a sample of my abilities.
+
+## Website UI Gallery
+
+<img width="100%" src="gallery/UI1.png"/>
+<br>
+<div align=>
+<img width="49%" src="gallery/UI2.png"/> <img width="49%" src="gallery/UI3.png"/>
+<br>
+</div>
+<br>
+<div align="center">
+  <img align="center" width="49%" src="gallery/UI4.png"/>
+</div>
+
 <hr>
 
 
-### Contributions :
-Any and all contributions, issues, features and tips are welcome.
+### Contributions 📍
+Any and all contributions, issues, features and tips are welcome🙌
 
 ### License
 **Chat-App** is licence under [MIT License](https://github.com/)
@@ -49,6 +58,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-### Contact
+### Contact 📱
 
 For any Suggestion / Ideas ping me at [LinkedIn]()
