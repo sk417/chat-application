@@ -62,5 +62,5 @@ SOFTWARE.
 
 For any Suggestion / Ideas ping me at [LinkedIn]()
 <div align="right">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+<img src="gallery/made-with-love (3).svg"/>
   </div>
