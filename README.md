@@ -5,7 +5,7 @@ A real-time chat program that transmits and displays messages to a recipient wit
 
 ### Website UI Gallary
 
-
+<img src="gallery/UI1"/>
 <hr>
 
 Hello there! My name is Sudheer .
@@ -19,11 +19,11 @@ This modest piece serves as a sample of my abilities.
 <hr>
 
 
-### Contributing
+### Contributions :
 Any and all contributions, issues, features and tips are welcome.
 
 ### License
-**Portfolio-Template** is licence under [MIT License](https://github.com/)
+**Chat-App** is licence under [MIT License](https://github.com/)
 
 ```MIT License
 
